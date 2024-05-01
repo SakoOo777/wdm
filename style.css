@@ -1,0 +1,111 @@
+.header{
+margin-top:5px;
+	
+    font-family:"Times New Roman",Times,serif;
+    font-size:30px;
+    font-weight:blod;
+	border:#933 1px solid;
+	width:1460px;
+	height:225px;
+	background-color:#ffc;
+	background-position:center;
+	background-attachment:fixed;
+	border-radius:5px 5px 5px 5px;
+}
+
+.headerrr{
+text-align:center;
+
+margin-top:5px;
+	
+    font-family:"Times New Roman",Times,serif;
+    font-size:30px;
+    font-weight:blod;
+	border:#933 1px solid;
+	width:1460px;
+	height:375px;
+	background-color:#fff;
+	background-position:center;
+	background-attachment:fixed;
+	border-radius:5px 5px 5px 5px;
+}
+
+
+
+.headerr{
+margin-top:5px;
+direction:rtl;
+	
+    font-family:"Times New Roman",Times,serif;
+    font-size:30px;
+    font-weight:blod;
+	border:#933 1px solid;
+	width:1500px;
+	height:225px;
+	background-color:#ffc;
+	background-position:center;
+	background-attachment:fixed;
+	border-radius:5px 5px 5px 5px;
+}
+
+
+
+
+
+.te{
+
+	width:190px;
+	border:1px solid #fff;
+	float:right;
+    display: fixed;
+	
+}
+
+
+.tex{
+
+	width:190x;
+	border:1px solid #fff;
+	float:left;
+	
+}
+.menu{
+text-align:center;
+	
+margin-top:5px;
+border:#800 0px solid;
+width:1500px;
+direction:rtl;
+height:31px;
+background-color:#ffc;
+}    
+.men {
+         list-style-type:none;
+         margin-top:0px;
+         margin-right:-1px;
+          }
+
+          .me{
+
+                     display:inline;
+                      }
+                        
+
+                            .m {
+                                      text-align:center;
+                                      text-decoration:none;
+                                      color:#fff;
+                                      font-family:"Times New Roman",Times,serif;
+                                      font-size:15px;
+                                      font-weight:blod;
+                                      border:#ff0f0f0 solid 2px;
+                                      padding : 3px 18px 15px 20px;
+                                      border-radius:5px 5px 5px;
+                                      background-color:#ec7600;
+         
+							  
+
+                                      }
+         .foter{border-radius:5px 5px 5px;
+margin-top:2px;
+}
